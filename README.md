@@ -58,3 +58,5 @@
 - [ ] 图
 
 ### 机器学习
+- [ ] [机器学习理论三部曲](https://juejin.im/entry/58e5a794b123db15eb80b1cb)
+- [ ] [写给大家看的机器学习书（第一篇）](https://juejin.im/entry/58d377dfac502e0058ba4d78)
