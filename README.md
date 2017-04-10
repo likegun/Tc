@@ -6,12 +6,25 @@
 - [ ] 缓存策略、CDN
 - [ ] 页面滑动加载
 - [ ] 前端优化
+- [ ] 正则表达式
+- [ ] webpack
+- [ ] bower
+
+### Javascritp
+
+- [ ] 原型链
+- [ ] 闭包
+- [ ] 调用堆栈
+- [ ] Timer
+
+### 爬虫
+
+- [ ] 爬虫调度系统
+- [ ] forked_child_process exit 潜在内存泄漏
+- [x] 机器唯一的标志 -> 用hostname + 大随机数
 
 ### 后端
 
-- [ ] 爬虫调度系统
-  - [ ] forked_child_process exit 潜在内存泄漏
-  - [x] 机器唯一的标志 -> 用hostname + 大随机数
 - [ ] 缓存
   - [ ] redis
 
@@ -43,3 +56,5 @@
 - [ ] 堆
 - [ ] 树
 - [ ] 图
+
+### 机器学习
