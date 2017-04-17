@@ -17,7 +17,7 @@
 - [ ] 原型链
 - [ ] 闭包
 - [ ] 堆
-- [ ] 栈
+- [x] 栈 execution context stack
 - [x] Timer
 - [ ] Promise
   - [ ] .then .catch调用顺序
@@ -37,6 +37,7 @@
 - [ ] nodejs
   - [ ] 垃圾回收
   - [ ] [v8对象表示](http://newhtml.net/v8-object-representation/)
+  - [ ] global
 
 ### 数据库
 
