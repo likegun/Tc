@@ -9,13 +9,18 @@
 - [ ] 正则表达式
 - [ ] webpack
 - [ ] bower
+- [ ] 一些额外项
+  - [ ] 网站上示例代码运行是怎么实现的
 
 ### Javascritp
 
 - [ ] 原型链
 - [ ] 闭包
-- [ ] 调用堆栈
-- [ ] Timer
+- [ ] 堆
+- [ ] 栈
+- [x] Timer
+- [ ] Promise
+  - [ ] .then .catch调用顺序
 
 ### 爬虫
 
@@ -27,6 +32,11 @@
 
 - [ ] 缓存
   - [ ] redis
+- [ ] 消息队列
+  - [ ] mq
+- [ ] nodejs
+  - [ ] 垃圾回收
+  - [ ] [v8对象表示](http://newhtml.net/v8-object-representation/)
 
 ### 数据库
 
@@ -35,11 +45,16 @@
   - [ ] 索引
   - [ ] 主从
   - [ ] 性能优化
+  - [ ] 连表的原理
 - [ ] Mongodb
   - [ ] 索引
   - [ ] 副本集
   - [ ] 分片
   - [ ] 性能优化
+
+### 架构
+
+- [ ] https://juejin.im/user/58b63d5f128fe1006421a23f
 
 ### 算法
 
@@ -58,5 +73,11 @@
 - [ ] 图
 
 ### 机器学习
+
 - [ ] [机器学习理论三部曲](https://juejin.im/entry/58e5a794b123db15eb80b1cb)
 - [ ] [写给大家看的机器学习书（第一篇）](https://juejin.im/entry/58d377dfac502e0058ba4d78)
+
+### 博客
+
+- [ ] http://newhtml.net
+- [ ] https://coderyc.com
