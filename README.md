@@ -3,7 +3,10 @@
 ### 前端
 
 - [ ] Http协议
-- [ ] 缓存策略、CDN
+  - [ ] 常见的http code
+  - [ ] http 1.0 1.1 2.0的主要区别
+- [ ] 缓存策略
+- [ ] CDN
 - [ ] 页面滑动加载
 - [ ] 前端优化
 - [ ] 正则表达式
@@ -19,8 +22,8 @@
 - [ ] 堆
 - [x] 栈 execution context stack
 - [x] Timer
-- [ ] Promise
-  - [ ] .then .catch调用顺序
+- [x] Promise
+  - [x] .then .catch调用顺序
 
 ### 爬虫
 
